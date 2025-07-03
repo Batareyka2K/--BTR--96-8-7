@@ -13,7 +13,7 @@ ___Text___
 ~~Text.~~
 **~~fyjrty~~**
 
-:fireworks
+:tada:fireworks
 
 >1lvl
 >>2lvl
