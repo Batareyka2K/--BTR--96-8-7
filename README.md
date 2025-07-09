@@ -18,5 +18,3 @@ ___Text___
 >1lvl
 >>2lvl
 >>>...
-
-Text with code `x=2`
